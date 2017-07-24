@@ -141,6 +141,175 @@ __Users have varying tolerances for complexity and distractions; some people hav
 
 # Animal, vegetable, or mineral? Why users like mindless choices
 
+On the face of it, “number of clicks to get anywhere” seems like a useful criteria. But over time I’ve come to think that what really counts is not the number of clicks it takes me to get to what I want (although there are limits), but rather how hard each click is—the amount of thought required, and the amount of uncertainty about whether I’m making the right choice.
+
+In general, I think it’s safe to say that users don’t mind a lot of clicks as long as each click is painless and they have continued confidence that they’re on the right track—following what Jared Spool calls “the scent of information.” I think the rule of thumb might be something like “three mindless, unambiguous clicks equal one click that requires thought.”
+
+The point is, we face choices all the time on the Web and making the choices mindless is one of the main things that make a site easy to use.
+
+# Chapter 5  Omit needless words : The Art Of Not Writing For The WEB
+
+Of the five or six things that i learned in college, the one that has stuck with me the longest梐nd benefited me the most is E. B. White's seventeenth rule in The Elements of Style: 17. __Omit needless words. Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.__
+
+When I look at most Web pages, I’m struck by the fact that most of the words I see are just taking up space, because no one is ever going to read them. And just by being there, all the extra words suggest that you may actually need to read them to understand what’s going on, which often makes pages seem more daunting than they actually are.
+
+My Third Law probably sounds excessive, because it’s meant to. Removing half of the words is actually a realistic goal; I find I have no trouble getting rid of half the words on most Web pages without losing anything of value. But the idea of removing half of what’s left is just my way of trying to encourage people to be ruthless about it.
+
+Getting rid of all those words that no one is going to read has several beneficial effects:
+
+* It reduces the noise level of the page. 
+* It makes the useful content more prominent. 
+* It makes the pages shorter, allowing users to see more of each page at a glance without scrolling.
+
+### Happy talk must die
+
+We all know happy talk when we see it: It’s the introductory text that’s supposed to welcome us to the site and tell us how great it is, or to tell us what we’re about to see in the section we’ve just entered. 
+
+If you’re not sure whether something is happy talk, there’s one sure-fire test: If you listen very closely while you’re reading it, you can actually hear a tiny voice in the back of your head saying, “Blah blah blah blah blah….” 
+
+A lot of happy talk is the kind of self-congratulatory promotional writing that you find in badly written brochures. Unlike good promotional copy, it conveys no useful information, and it focuses on saying how great we are, as opposed to delineating what makes us great.
+
+Although happy talk is sometimes found on Home pages—usually in paragraphs that start with the words “Welcome to…”—its favored habitat is the front pages of the sections of a site (“section fronts”). Since these pages are often just a table of contents with no real content of their own, there’s a temptation to fill them with happy talk. Unfortunately, the effect is as if a book publisher felt obligated to add a paragraph to the table of contents page saying, “This book contains many interesting chapters about _____, _____, and _____. We hope you enjoy them.”
+
+Happy talk is like small talk—content free, basically just a way to be sociable. But most Web users don’t have time for small talk; they want to get right to the beef. You can—and should—eliminate as much happy talk as possible.
+
+### Instructions must die
+
+The other major source of needless words is instructions. The main thing you need to know about instructions is that no one is going to read them—at least not until after repeated attempts at “muddling through” have failed. And even then, if the instructions are wordy, the odds of users finding the information they need is pretty low.
+
+Your objective should always be to eliminate instructions entirely by making everything self-explanatory, or as close to it as possible. When instructions are absolutely necessary, cut them back to the bare minimum.
+
+# Chapter 6 Street signs and Breadcrumbs : Designing Navigation
+
+It't a fact: People won't use your Web site if they can't find their way around it.
+
+You know this from your own experience as a Web user. If you go to a site and can’t find what you’re looking for or figure out how the site is organized, you’re not likely to stay long—or come back. So how do you create the proverbial “clear, simple, and consistent” navigation?
+
+### Web Navigation 101
+
+##### You’re usually trying to find something. 
+
+In the “real” world it might be the emergency room or a can of baked beans. On the Web, it might be the cheapest 4-head VCR with Commercial Advance or the name of the actor in Casablanca who played the headwaiter at Rick’s.
+
+##### You decide whether to ask first or browse first. 
+
+The difference is that on a Web site there’s no one standing around who can tell you where things are. The Web equivalent of asking directions is searching—typing a description of what you’re looking for in a search box and getting back a list of links to places where it might be.
+
+Some people (Jakob Nielsen calls them “search-dominant” users)2 will almost always look for a search box as soon as they enter a site. (These may be the same people who look for the nearest clerk as soon as they enter a store.) 
+
+Other people (Nielsen’s “link-dominant” users) will almost always browse first, searching only when they’ve run out of likely links to click or when they have gotten sufficiently frustrated by the site.
+
+For everyone else, the decision whether to start by browsing or searching depends on their current frame of mind, how much of a hurry they're in, and whether the site appears to have decent browsable navigation.
+
+##### If you choose to browse, you make your way through a hierarchy, using signs to guide you. 
+
+Typically, you’ll look around on the Home page for a list of the site’s main sections (like the store’s department signs) and click on the one that seems right. 
+
+Then you’ll choose from the list of subsections.
+
+With any luck, after another click or two you’ll end up with a list of the kind of thing you’re looking for.
+
+Then you can click on the individual links to examine them in detail, the same way you’d take products off the shelf and read the labels.
+
+Eventually, if you can't find what you're looking for, you'll leave. This is as true on a Web site as it is at Sears. You'll leave when you're convinced they haven't got it, or when you're just too frustrated to keep looking.
+
+### The unbearable lightness of browsing
+
+Looking for things on a Web site and looking for them in the “real” world have a lot of similarities. When we’re exploring the Web, in some ways it even feels like we’re moving around in a physical space. Think of the words we use to describe the experience—like “cruising,” “browsing,” and “surfing.” And clicking a link doesn’t “load” or “display” another page—it “takes you to” a page. But the Web experience is missing many of the cues we’ve relied on all our lives to negotiate spaces. Consider these oddities of Web space:
+
+* No sense of scale. Even after we’ve used a Web site extensively, unless it’s a very small site we tend to have very little sense of how big it is (50 pages? 1,000? 17,000?).3 For all we know, there could be huge corners we’ve never explored. Compare this to a magazine, a museum, or a department store, where you always have at least a rough sense of the seen/unseen ratio. The practical result is that it’s very hard to know whether you’ve seen everything of interest in a site, which means it’s hard to know when to stop looking.
+
+* No sense of direction. In a Web site, there's no left and right, no up and down. We may talk about moving up and down, but we mean up and down in the hierarchy -- to a more general or more specific level.
+
+* No sense of location. In physical spaces, as we move around we accumulate knowledge about the space. We develop a sense of where things are and can take shortcuts to get to them.
+
+> Even the people who manage Web sites often have very little idea how big their sites really are.
+
+> This is one reason why it’s useful for links that we’ve already clicked on to display in a different color. It gives us some small sense of how much ground we’ve covered.
+
+When we want to return to something on a Web site, instead of relying on a physical sense of where it is we have to remember where it is in the conceptual hierarchy and retrace our steps. This is one reason why bookmarks—stored personal shortcuts—are so important, and why the Back button accounts for somewhere between 30 and 40 percent of all Web clicks.
+
+It also explains why the concept of Home pages is so important. Home pages are—comparatively—fixed places. When you’re in a site, the Home page is like the North Star. Being able to click Home gives you a fresh start.
+
+This lack of physicality is both good and bad. On the plus side, the sense of weightlessness can be exhilarating, and partly explains why it's so easy to lose track of time on the Web -- The same as when we're lost in a good book.
+
+On the negative side, I think it explains why we use the term “Web navigation” even though we never talk about “department store navigation” or “library navigation.” If you look up navigation in a dictionary, it’s about doing two things: getting from one place to another, and figuring out where you are.
+
+I think we talk about Web navigation because “figuring out where you are” is a much more pervasive problem on the Web than in physical spaces. We’re inherently lost when we’re on the Web, and we can’t peek over the aisles to see where we are. Web navigation compensates for this missing sense of place by embodying the site’s hierarchy, creating a sense of “there.”
+
+### The overlooked purposes of navigation
+
+Two of the purposes of navigation are fairly obvious: to help us find whatever it is we’re looking for, and to tell us where we are. And we’ve just talked about a third:
+
+__It gives us something to hold on to.__ As a rule, it's no fun feeling lost. (Would you rather "feel lost" or "know your way around"? Done right, navigation puts ground under our feet (even if it's virtual ground) and gives us handrails to hold on to - to make us feel grounded.
+
+But navigation has some other equally important—and easily overlooked—functions:
+
+__It tells us what's here.__ By making the hierarchy visible, navigation tells us what the site contains. Navigation reveals content! And revealing the site may be even more important than guiding or situating us.
+
+> Which may be one more reason why slow-loading pages are so bothersome: What’s the fun of flying if you can only go a few miles an hour?
+
+__It tells us how to use the site.__ If the navigation is doing its job, it tells you implicitly where to begin and what your options are. Done correctly, it should be all the instructions you need. (Which is good, since most users will ignore any other instructions anyway.)
+
+__It gives us confidence in the people who built it.__ Every moment we’re in a Web site, we’re keeping a mental running tally: “Do these guys know what they’re doing?” It’s one of the main factors we use in deciding whether to bail out and deciding whether to ever come back. Clear, well-thought-out navigation is one of the best opportunities a site has to create a good impression.
+
+### Web navigation conventions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
