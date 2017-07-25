@@ -255,6 +255,59 @@ __It gives us confidence in the people who built it.__ Every moment we’re in a
 
 ### Web navigation conventions
 
+Physical spaces like cities and buildings (and even information spaces like books and magazines) have their own navigation systems, with conventions that have evolved over time like street signs, page numbers, and chapter titles. The conventions specify (loosely) the appearance and location of the navigation elements so we know what to look for and where to look when we need them. Putting them in a standard place lets us locate them quickly, with a minimum of effort; standardizing their appearance makes it easy to distinguish them from everything else. For instance, we expect to find street signs at street corners, we expect to find them by looking up (not down), and we expect them to look like street signs (horizontal, not vertical). We also take it for granted that the name of a building will be above or next to its front door. In a grocery store, we expect to find signs near the ends of each aisle. In a magazine, we know there will be a table of contents somewhere in the first few pages and page numbers somewhere in the margin of each page—and that they’ll look like a table of contents and page numbers.
+
+Think of how frustrating it is when one of these conventions is broken (when magazines don’t put page numbers on advertising pages, for instance).
+
+### Don’t look now, but I think it’s following us
+
+Web designers use the term persistent navigation (or global navigation) to describe the set of navigation elements that appear on every page of a site.
+
+Done right, persistent navigation should say—preferably in a calm, comforting voice: “The navigation is over here. Some parts will change a little depending on where you are, but it will always be here, and it will always work the same way.”
+
+Just having the navigation appear in the same place on every page with a consistent look gives you instant confirmation that you’re still in the same site— which is more important than you might think. And keeping it the same throughout the site means that (hopefully) you only have to figure out how it works once.
+
+##### Now I know we’re not in Kansas
+
+The Site ID or logo is like the building name for a Web site. At Sears, I really only need to see the name on my way in; once I’m inside, I know I’m still in Sears until I leave. But on the Web—where my primary mode of travel is teleportation—I need to see it on every page.
+
+##### The Sections
+The Sections—sometimes called the primary navigation—are the links to the main sections of the site: the top level of the site’s hierarchy. In most cases, the persistent navigation will also include space to display the secondary navigation: the list of subsections in the current section.
+
+##### The Utilities
+
+Utilities are the links to important elements of the site that aren’t really part of the content hierarchy. These are things that either can help me use the site (like Help, a Site Map, or a Shopping Cart) or can provide information about its publisher (like About Us and Contact Us). Like the signs for the facilities in a store, the Utilities list should be slightly less prominent than the Sections.
+
+### A way to search
+
+Given the potential power of searching8 and the number of people who prefer searching to browsing, unless a site is very small and very well organized, every page should have either a search box or a link to a search page. And unless there’s very little reason to search your site, it should be a search box.
+
+Keep in mind that for a large percentage of users their first official act when they reach a new site will be to scan the page for search box. It's a simple formula: a box, a button, and the word 揝earch.?Don抰 make it hard for them梥tick to the formula.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
