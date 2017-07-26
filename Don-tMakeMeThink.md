@@ -282,7 +282,61 @@ Utilities are the links to important elements of the site that aren’t really p
 
 Given the potential power of searching8 and the number of people who prefer searching to browsing, unless a site is very small and very well organized, every page should have either a search box or a link to a search page. And unless there’s very little reason to search your site, it should be a search box.
 
-Keep in mind that for a large percentage of users their first official act when they reach a new site will be to scan the page for search box. It's a simple formula: a box, a button, and the word 揝earch.?Don抰 make it hard for them梥tick to the formula.
+Keep in mind that for a large percentage of users their first official act when they reach a new site will be to scan the page for search box. It's a simple formula: a box, a button, and the word "Search". Don't make it hard for them - stick to the formula.
+
+I seldom see a case where the potential payoff for adding options to the persistent search box is worth the cost of making me figure out what the options are and whether I need to use them (i.e., making me think).
+
+If you want to give me the option to scope the search, give it to me when it’s useful—when I get to the search results page and discover that searching everything turned up far too many hits, so I __need__ to limit the scope.
+
+I think one of the primary reasons for Amazon’s success is the robustness of its search. As I mentioned, Amazon was one of the first online bookstores (if not the first) to drop the Title/Author/Keyword option from their search box and just take whatever I threw at them.
+
+I've done several user tests of online bookstores, and left to their own devices, inevitably the first thing people did was search for a book they knew they should be able to find to see if the thing worked. And in test after test, the result was that people抯 first experience of Amazon was a successful search, while in sites that offered options many people were left puzzled when their search failed because they had misinterpreted their options.
+
+And of course, if you’re going to provide options, you need to make sure that they actually work.
+
+### Secondary, tertiary, and whatever comes after tertiary
+
+I think this is one of the most common problems in Web design (especially in larger sites): failing to give the lower-level navigation the same attention as the top. In so many sites, as soon as you get past the second level, the navigation breaks down and becomes ad hoc. The problem is so common that it’s actually hard to find good examples of third-level navigation.
+
+Why does this happen?
+
+Partly, I think, because good multi-level navigation is just plain hard to design— given the limited amount of space on the page, and the number of elements that have to be squeezed in.
+
+Partly because designers usually don't even have enough time to figure out the first two levels.
+
+Partly because it just doesn't seem that important. (After all, how important can it be? It's not primary. It's not even secondary.) And there's a tendency to think that by the time people get that far into the site, they'll understand how it works.
+
+And then there’s the problem of getting sample content and hierarchy examples for lower-level pages. Even if designers ask, they probably won’t get them, because the people responsible for the content usually haven’t thought things through that far, either.
+
+But the reality is that users usually end up spending as much time on lowerlevel pages as they do at the top. And unless you’ve worked out top-to-bottom navigation from the beginning, it’s very hard to graft it on later and come up with something consistent.
+
+Page names are the street signs of the Web. Just as with street signs, when things are going well I may not notice page names at all. But as soon as I start to sense that I may not be headed in the right direction, I need to be able to spot the page name effortlessly so I can get my bearings.
+
+There are four things you need to know about page names:
+
+* __Every page needs a name.__ Just as every corner should have a street sign, every page should have a name.  
+* __The name needs to be in the right place.__ In the visual hierarchy of the page, the page name should appear to be framing the content that is unique to this page.  
+* __The name needs to be prominent.__ You want the combination of position, size, color, and typeface to make the name say 揟his is the heading for the entire page.?In most cases, it will be the largest text on the page.  
+* __The name needs to match what I clicked.__ Even though nobody ever mentions it, every site makes an implicit social contract with its visitors: 	__*The name of the page will match the words I clicked to get there.*__ In other words, if I click on a link or button that says “Hot mashed potatoes,” the site will take me to a page named “Hot mashed potatoes.” It may seem trivial, but it’s actually a crucial agreement. Each time a site violates it, I’m forced to think, even if only for milliseconds, “Why are those two things different?” And if there’s a major discrepancy between the link name and the page name or a lot of minor discrepancies, my trust in the site— and the competence of the people who publish it—will be diminished.
+
+### "You are here"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
