@@ -321,13 +321,37 @@ There are four things you need to know about page names:
 
 ### "You are here"
 
+One of the ways navigation can counteract the Web’s inherent “lost in space” feeling is by showing me where I am in the scheme of things, the same way that a “You are here” indicator does on the map in a shopping mall—or a National Park.
+
+On the Web, this is accomplished by highlighting my current location in whatever navigational bars, lists, or menus appear on the page.
+
+The most common failing of “You are here” indicators is that they’re too subtle. They need to stand out; if they don’t, they lose their value as visual cues and end up just adding more noise to the page. One way to ensure that they stand out is to apply more than one visual distinction—for instance, a different color and bold text.
+
+Too-subtle visual cues are actually a very common problem. Designers love subtle cues, because subtlety is one of the traits of sophisticated design. But Web users are generally in such a hurry that they routinely miss subtle cues.
+
+In general, if you're a designer and you think a visual cue is sticking out like a sore thumb, it probably means you need to make it twice as prominent.
+
+### Breadcrumbs
+
+Like “You are here” indicators, Breadcrumbs show you where you are. (Sometimes they even include the words “You are here.”)
+
+They're called Breadcrumbs because they抮e reminiscent of the trail of crumbs Hansel dropped in the woods so he and Gretel could find their way back home.
+
+Unlike “You are here” indicators, which show you where you are in the context of the site’s hierarchy, Breadcrumbs only show you the path from the Home page to where you are. (One shows you where you are in the overall scheme of things, the other shows you how to get there—kind of like the difference between looking at a road map and looking at a set of turn-by-turn directions. The directions can be very useful, but you can learn more from the map.)
+
+You could argue that bookmarks are more like the fairy tale breadcrumbs, since we drop them as we wander, in anticipation of possibly wanting to retrace our steps someday. Or you could say that visited links (links that have changed color to show that you’ve clicked on them) are more like breadcrumbs since they mark the paths we’ve taken, and if we don’t revisit them soon enough, our browser (like the birds) will swallow them up.
+
+### Four reasons why I love tabs
+
+I think they’re an excellent navigation choice for large sites. Here’s why:
+
+* They’re self-evident. I’ve never seen anyone—no matter how “computer illiterate”—look at a tabbed interface and say, “Hmmm. I wonder what those do?”  
+* They’re hard to miss.When I do point-and-click user tests, I’m surprised at how often people can overlook button bars at the top of a Web page.15 But because tabs are so visually distinctive, they’re hard to overlook. And because they’re hard to mistake for anything but navigation, they create the kind of obvious-at-a-glance division you want between navigation and content.  
+* They’re slick.Web designers are always struggling to make pages more visually interesting. If done correctly (see below), tabs can add polish and serve a useful purpose.
+* They suggest a physical space. Tabs create the illusion that the active tab physically moves to the front.
 
 
-
-
-
-
-
+# Chapter 7 : The first step in recovery is admitting that the Home page is beyond your control : Designing the Home page
 
 
 
